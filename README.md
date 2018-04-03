@@ -9,7 +9,7 @@ Programs often use some of the same files as each other. Rather than putting the
 **scratch** : creating the code from zero
 Higher speed/ performance .
 
-**Benefits of dependencies** ?
+**Benefits of dependencies?** 
 
 -   Better interoperability with other software .
 
