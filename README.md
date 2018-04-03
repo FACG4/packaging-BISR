@@ -9,9 +9,11 @@ Programs often use some of the same files as each other. Rather than putting the
 
 
 **_ scratch _** : creating the code from zero
-Higher speed/ performance .
 
 **_ Benefits of dependencies _** ?
+
+ * Higher speed/ performance .
+
 
 * Better interoperability with other software .
 
